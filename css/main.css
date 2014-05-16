@@ -15,7 +15,7 @@ html, body { height: 100%; }
 body {
   background-color: #FFF;
   color: #000;
-  font-family: 'Roboto';
+  font-family: 'Lato';
   font-size: normal;
   text-align: center;
   line-height: 150%;
@@ -28,7 +28,7 @@ h1 { margin-bottom: 1em; }
 p { margin: 0.15em 0; }
 
 a:link, a:visited { 
-            color: #0044B3; 
+            color: #3790FF; 
             text-decoration: none;
             -moz-text-decoration-color: -moz-use-text-color;
             -moz-text-decoration-line: none;
