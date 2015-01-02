@@ -1,0 +1,4 @@
+--- Run blog
+```bash
+bundle exec jekyll serve
+```

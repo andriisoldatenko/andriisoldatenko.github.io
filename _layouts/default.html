@@ -17,10 +17,18 @@
     <body>
 
         <div class="site">
-
-          {{ content }}
-          
+            
+            <div class="nav">
+                {% include header.html %}
+            </div>
+            
+            <div class="content">
+              {{ content }}  
+            </div>
+            
+                {% include footer.html %} 
+            
         </div>
-
+        </body>
     </body>
 </html>
